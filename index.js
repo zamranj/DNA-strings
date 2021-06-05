@@ -22,4 +22,4 @@ console.log(`The DNA strand is ${alteredDNA.length} characters long.\n`);
 
 
 //e) Just for fun, apply methods to ``dna`` and use another template literal to print, 'taco cat'.
-console.log(`${dna.slice(4,7).toLowerCase()}o ${dna.slice(40,43).toLowerCase()}`)
+console.log(`${dna.slice(4,7).toLowerCase()}o ${dna.slice(40,43).toLowerCase()}\n`)
